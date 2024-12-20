@@ -88,51 +88,51 @@ export default function Hero() {
   ];
 
   const imgaeData = [
-    { id: 1, img: Img1, title: "Irkan" },
-    { id: 2, img: Img2, title: "Irkan" },
-    { id: 3, img: Img3, title: "Irkan" },
-    { id: 4, img: Img4, title: "Irkan" },
-    { id: 5, img: Img5, title: "Irkan" },
-    { id: 6, img: Img6, title: "Irkan" },
-    { id: 7, img: Img7, title: "Irkan" },
-    { id: 8, img: Img8, title: "Irkan" },
-    { id: 9, img: Img9, title: "Irkan" },
-    { id: 10, img: Img10, title: "Irkan" },
+    { id: 1, img: Img1, title: "Lana" },
+    { id: 2, img: Img2, title: "Lana" },
+    { id: 3, img: Img3, title: "Lana" },
+    { id: 4, img: Img4, title: "Lana" },
+    { id: 5, img: Img5, title: "Lana" },
+    { id: 6, img: Img6, title: "Lana" },
+    { id: 7, img: Img7, title: "Lana" },
+    { id: 8, img: Img8, title: "Lana" },
+    { id: 9, img: Img9, title: "Lana" },
+    { id: 10, img: Img10, title: "Lana" },
   ];
 
   const tableData = [
     {
-      name: "Sarina Rai",
+      name: "Lex",
       department: "IT Department",
       clockin: "8:45 am",
       hourworked: "8 hour",
     },
     {
-      name: "Sarina Rai",
+      name: "Lex",
       department: "IT Department",
       clockin: "8:45 am",
       hourworked: "8 hour",
     },
     {
-      name: "Sarina Rai",
+      name: "Lex",
       department: "IT Department",
       clockin: "8:45 am",
       hourworked: "8 hour",
     },
     {
-      name: "Sarina Rai",
+      name: "Lex",
       department: "IT Department",
       clockin: "8:45 am",
       hourworked: "8 hour",
     },
     {
-      name: "Sarina Rai",
+      name: "Lex",
       department: "IT Department",
       clockin: "8:45 am",
       hourworked: "8 hour",
     },
     {
-      name: "Sarina Rai",
+      name: "Lex",
       department: "IT Department",
       clockin: "8:45 am",
       hourworked: "8 hour",
